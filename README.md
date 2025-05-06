@@ -2,7 +2,7 @@
 
 ![image of a cat](/somehelper.png)
 
-## Your idea in a nutshell
+## Summary
 **SoMe Helper** is an AI-powered tool that helps marketing professionals predict the performance of social media campaigns before publishing. By leveraging historic campaign data, it estimates potential engagement and provides real-time suggestions for optimizing posts — such as changing images, wording, or hashtags — to improve reach and interaction.
 
 ## Background
