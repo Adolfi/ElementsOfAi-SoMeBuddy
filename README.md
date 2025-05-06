@@ -1,5 +1,4 @@
-# Project Title
-SoMe Helper
+# SoMe Helper
 
 ![image of a cat](/somehelper.png)
 
